@@ -1,4 +1,4 @@
-<h3 align="center">Computer Engineer - Data Science |Machine Learning | Natural Language Processing</h3>
+<h3 align="center">Computer Engineer -> Data Science | Machine Learning | Natural Language Processing</h3>
 
 - 🌱 I’m currently learning **Python, SQL Related Langauge styles, Data Science**
 
