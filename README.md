@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Python, SQL Related Langauge styles, Data Science**
 
-- 📝 I regularly write articles on [https://medium.com/@kucukkebru](https://medium.com/@kucukkebru)
+- 📝 My Medium profile [https://medium.com/@kucukkebru](https://medium.com/@kucukkebru)
 
 - 📫 How to reach me **kucukkebru@gmail.com**
 
